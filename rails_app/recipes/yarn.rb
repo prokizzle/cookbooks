@@ -8,7 +8,7 @@ execute 'install node source' do
 end
 
 execute 'install node' do
-    commadn 'sudo apt-get install -y nodejs'
+    command 'sudo apt-get install -y nodejs'
 end
 
 execute 'add key' do 
