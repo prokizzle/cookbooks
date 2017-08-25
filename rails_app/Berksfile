@@ -6,3 +6,6 @@ metadata
 cookbook 'opsworks_ruby'
 cookbook 'nodejs', '~> 4.0.0'
 cookbook 'yarn', '~> 0.3.1'
+cookbook 'cloudwatch_monitoring', '~> 1.2.0'
+cookbook 'nodesource', '~> 2.1.0'
+cookbook 'redis'
